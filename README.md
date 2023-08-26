@@ -2,6 +2,9 @@
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skitarii11&theme=synthwave&show_icons=true)](https://github.com/anuraghazr/github-readme-stats)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skitarii11&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Skitarii11&theme=synthwave)](https://git.io/streak-stats)
+<div style="text-align:center;">
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Skitarii11&theme=synthwave)](https://git.io/streak-stats)
+</div>
+
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=Skitarii11&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
