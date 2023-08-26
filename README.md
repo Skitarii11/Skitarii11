@@ -2,7 +2,9 @@
 ---
 
 🚀 Passionate Full Stack Developer with a Flair for 3D Frontend Development 🌟
-
+<p align="center" style="font-size: 40px;">
+    🚀 Passionate Full Stack Developer with a Flair for 3D Frontend Development 🌟
+</p>
 👋 Hello there! I'm Javkhlan, a dynamic Full Stack Developer with a strong penchant for creating immersive and visually captivating web experiences. My expertise lies at the intersection of cutting-edge frontend technologies, with a special focus on Three.js and 3D programming.
 
 🎨 Frontend Maestro: With a deep appreciation for aesthetics and a keen eye for detail, I thrive in crafting interactive and engaging user interfaces that leave a lasting impression. My mastery of HTML, CSS, and JavaScript allows me to breathe life into web applications, making them not just functional but truly delightful to use.
