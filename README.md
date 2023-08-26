@@ -1,7 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/Skitarii11/Skitarii11/main/Hi%2C%20i.png)](https://github.com/Skitarii11)
 ---
 
-<p style="text-align: center; font-size: 24px;">
     🚀 Passionate Full Stack Developer with a Flair for 3D Frontend Development 🌟
 
     👋 Hello there! I'm Javkhlan, a dynamic Full Stack Developer with a strong penchant for creating immersive and visually captivating web experiences. My expertise lies at the intersection of cutting-edge frontend technologies, with a special focus on Three.js and 3D programming.
@@ -19,7 +18,7 @@
     💡 Innovative Problem Solver: I relish tackling complex challenges and finding creative solutions. Whether it's optimizing performance, enhancing user experience, or overcoming compatibility issues, I'm always up for the challenge.
 
     🤝 Collaborative Team Player: I firmly believe that the best solutions emerge when diverse minds come together. I'm a strong advocate for collaboration, and I thrive in a team-oriented environment where ideas flow freely and innovation thrives.
-</p>
+
 
 ---
 &nbsp;&nbsp;&nbsp;[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skitarii11&theme=synthwave&show_icons=true)](https://github.com/anuraghazr/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skitarii11&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
