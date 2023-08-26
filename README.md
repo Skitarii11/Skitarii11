@@ -2,7 +2,7 @@
 ---
 
 <div style="display: flex; justify-content: center;">
-    <div style="text-align: center; margin-right: 20px;">
+    <div style="text-align: center; margin-left: 50px;">
         <a href="https://github.com/anuraghazr/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api?username=Skitarii11&theme=synthwave&show_icons=true" alt="Anurag's GitHub stats" />
         </a>
